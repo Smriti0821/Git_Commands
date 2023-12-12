@@ -4,3 +4,4 @@ Every day is a fresh start!!
 Raising Merge Conflict
 Rebasing!!
 Byeeeeeeeeeeeeeee!!
+git rebase main
