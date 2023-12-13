@@ -1,24 +1,12 @@
 Hello World!!
-<<<<<<< HEAD
-<<<<<<< HEAD
 Every day is a fresh start!!
 Raising Merge Conflict
-Rebasing!!
-<<<<<<< HEAD
-=======
+Rebasing
 Raising Merge Conflict
->>>>>>> ee3ebfa (Adding new line via GitHub)
-=======
 Rebase
 Every day is a fresh start!!
 Raising Merge Conflict
 Rebasing!!
 Byeeeeeeeeeeeeeee!!
-<<<<<<< HEAD
->>>>>>> 6dd59ea (Added new line)
-=======
 Byeeeeeeeeeeeeeee!!
->>>>>>> 23f0059 (Added new line)
-=======
 git rebase main
->>>>>>> f14702a (Added git rebase main in Test_branch)

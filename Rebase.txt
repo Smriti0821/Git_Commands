@@ -1,4 +1,8 @@
 Rebasing!!
 git rebase branch
+<<<<<<< HEAD
+Hellooooo...
+=======
 hello
+>>>>>>> f8d88c4 (Updated file)
 
